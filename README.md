@@ -58,7 +58,7 @@ Implement and understand K-Nearest Neighbors (KNN) algorithm for classification 
 ---
 
 ## 📎 About
-This repository is part of the AI & ML Internship by [Your Institute/Organization Name], specifically focusing on understanding and applying the K-Nearest Neighbors algorithm for classification.
+This repository is part of the AI & ML Internship for understanding and applying the K-Nearest Neighbors algorithm for classification.
 
 ---
 
